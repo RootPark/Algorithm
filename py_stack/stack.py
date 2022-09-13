@@ -6,11 +6,12 @@ def main():
 		
 	
 	
-def push():
+def push(num):
+    	
     	
 def pop():
     	
-def size():
+def size(stack):
     	
 def empty():
     
